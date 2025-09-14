@@ -6,6 +6,8 @@ Welcome to the **Nand2Tetris** repository! This project contains the complete se
 
 The Nand2Tetris course, also known as "From Nand to Tetris," is a comprehensive journey through computer science, covering hardware and software design. This repository showcases my implementations of all 12 projects, each building on the previous one to create a fully operational computer system.
 
+<img width="838" height="548" alt="image" src="https://github.com/user-attachments/assets/b959b38a-621e-4102-a254-29ca6d135224" />
+
 ### Projects
 
 1. **Boolean Logic**: Building basic logic gates (Nand, And, Or, Xor, Mux, etc.) using HDL (Hardware Description Language).
